@@ -1,0 +1,12 @@
+anne:
+  city: london
+  avatar: anne.jpg
+  description: Nice flat in Piccadilly
+romain:
+  city: brussels
+  avatar: romain.jpg
+  description: Crappy flat in the mud
+seb:
+  city: paris
+  avatar: seb.jpg
+  description: Charming room in Montmartre
